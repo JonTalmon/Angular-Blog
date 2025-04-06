@@ -13,6 +13,8 @@ photoCover: String = '';
 cardTitle: String = '';
 @Input()
 cardDescription: String = '';
+@Input()
+id:String = "0"
 
 
 }
